@@ -3,10 +3,20 @@ vim.opt.relativenumber = true
 vim.opt.mouse = 'a'
 vim.opt.showmatch = true
 vim.cmd('filetype plugin indent on')
+
+-- Better indentation settings
+vim.opt.tabstop = 2        -- Number of spaces that a <Tab> in the file counts for
+vim.opt.softtabstop = 2    -- Number of spaces that a <Tab> counts for while editing
+vim.opt.shiftwidth = 2     -- Number of spaces to use for each step of (auto)indent
+vim.opt.expandtab = true   -- Use spaces instead of tabs
+vim.opt.autoindent = true  -- Copy indent from current line when starting a new line
+vim.opt.smartindent = true -- Smart autoindenting when starting a new line
+
 -- Set <Space> as leader key
 vim.g.mapleader = " "
 -- Keymap: <leader>pv opens the file explorer
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex, { desc = "Open directory view" })
+
 vim.g.clipboard = {
     name = 'OSC 52',
     copy = {
@@ -18,13 +28,13 @@ vim.g.clipboard = {
         ['*'] = require('vim.ui.clipboard.osc52').paste('*'),
     },
 }
+
 -- Load Lazy.nvim
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
   print("Lazy.nvim is not installed. Please install it manually.")
 end
 vim.opt.rtp:prepend(lazypath)
-
 
 -- Plugin setup
 require("lazy").setup({
@@ -50,7 +60,7 @@ require("lazy").setup({
       local lspconfig = require('lspconfig')
       local capabilities = require('cmp_nvim_lsp').default_capabilities()
       
-      -- Enhanced HTML LSP setup
+      -- Enhanced HTML LSP setup with better formatting
       lspconfig.html.setup({
         capabilities = capabilities,
         filetypes = { 'html', 'javascriptreact', 'typescriptreact' },
@@ -61,6 +71,20 @@ require("lazy").setup({
             },
             completion = {
               attributeDefaultValue = "doublequotes"
+            },
+            format = {
+              enable = true,
+              indentInnerHtml = true,
+              indentHandlebars = true,
+              insertFinalNewline = true,
+              tabSize = 2,
+              insertSpaces = true,
+              wrapLineLength = 120,
+              unformatted = 'wbr',
+              contentUnformatted = 'pre,code,textarea',
+              endWithNewline = true,
+              extraLiners = 'head,body,/html',
+              wrapAttributes = 'auto'
             }
           },
         },
@@ -85,7 +109,6 @@ require("lazy").setup({
       })
       
       lspconfig.ts_ls.setup({ capabilities = capabilities })
-      
       lspconfig.cssls.setup({ capabilities = capabilities })
       lspconfig.lua_ls.setup({ capabilities = capabilities })
     end
@@ -97,7 +120,8 @@ require("lazy").setup({
       require('nvim-treesitter.configs').setup {
         ensure_installed = { 'html', 'javascript', 'typescript', 'tsx', 'css' },
         highlight = { enable = true },
-        autotag = { enable = true }
+        autotag = { enable = true },
+        indent = { enable = true }, -- Enable treesitter-based indentation
       }
     end
   },
@@ -111,6 +135,22 @@ require("lazy").setup({
           enable_close = true,
           enable_rename = true,
           enable_close_on_slash = false
+        }
+      })
+    end
+  },
+  -- Add auto-pairs for better bracket handling
+  {
+    'windwp/nvim-autopairs',
+    event = "InsertEnter",
+    config = function()
+      require('nvim-autopairs').setup({
+        disable_filetype = { "TelescopePrompt", "vim" },
+        check_ts = true,
+        ts_config = {
+          lua = {'string'},
+          javascript = {'template_string'},
+          java = false,
         }
       })
     end
@@ -137,7 +177,7 @@ require("lazy").setup({
       cmp.setup({
         completion = {
           completeopt = 'menu,menuone,noinsert',
-          keyword_length = 1,  -- Trigger completion after 1 character
+          keyword_length = 1,
         },
         snippet = {
           expand = function(args)
@@ -195,22 +235,71 @@ require("lazy").setup({
   },
 })
 
--- Additional autocmds for better HTML completion
+-- File-specific settings for better HTML formatting
 vim.api.nvim_create_autocmd("FileType", {
   pattern = { "html", "javascriptreact", "typescriptreact" },
   callback = function()
-    -- Set up additional keymaps for HTML files
-    vim.keymap.set('i', '<', '<><Left>', { buffer = true, desc = 'Auto close HTML tags' })
+    -- Set HTML-specific indentation
+    vim.opt_local.tabstop = 2
+    vim.opt_local.softtabstop = 2
+    vim.opt_local.shiftwidth = 2
+    vim.opt_local.expandtab = true
+    vim.opt_local.autoindent = true
+    vim.opt_local.smartindent = true
     
-    -- Trigger completion on common HTML starting characters
-    vim.keymap.set('i', 'd', function()
-      vim.api.nvim_feedkeys('d', 'n', true)
-      -- Small delay to let the character be inserted, then trigger completion
-      vim.defer_fn(function()
-        if vim.fn.pumvisible() == 0 then
-          vim.api.nvim_feedkeys(vim.api.nvim_replace_termcodes('<C-x><C-o>', true, true, true), 'n', true)
-        end
-      end, 10)
-    end, { buffer = true, desc = 'Trigger completion after d' })
+    -- Enable HTML-specific formatting options
+    vim.opt_local.formatoptions:append('r') -- Continue comments when pressing enter
+    vim.opt_local.formatoptions:append('o') -- Continue comments when pressing o or O
+    
+    -- HTML-specific keymaps
+    vim.keymap.set('i', '<CR>', function()
+      -- Check if we're between HTML tags
+      local line = vim.api.nvim_get_current_line()
+      local col = vim.api.nvim_win_get_cursor(0)[2]
+      local before = line:sub(1, col)
+      local after = line:sub(col + 1)
+      
+      if before:match('>[^<]*$') and after:match('^[^>]*<') then
+        -- We're between tags, add proper indentation
+        return '<CR><CR><Up><Tab>'
+      else
+        return '<CR>'
+      end
+    end, { buffer = true, desc = 'Smart HTML enter', expr = true })
+    
+    -- Format current buffer
+    vim.keymap.set('n', '<leader>f', function()
+      vim.lsp.buf.format({ async = true })
+    end, { buffer = true, desc = 'Format HTML' })
+    
+    -- Auto-format on save
+    vim.api.nvim_create_autocmd("BufWritePre", {
+      buffer = 0,
+      callback = function()
+        vim.lsp.buf.format({ async = false })
+      end,
+    })
+  end,
+})
+
+-- Additional CSS/SCSS specific settings
+vim.api.nvim_create_autocmd("FileType", {
+  pattern = { "css", "scss", "sass" },
+  callback = function()
+    vim.opt_local.tabstop = 2
+    vim.opt_local.softtabstop = 2
+    vim.opt_local.shiftwidth = 2
+    vim.opt_local.expandtab = true
+  end,
+})
+
+-- JavaScript/TypeScript specific settings
+vim.api.nvim_create_autocmd("FileType", {
+  pattern = { "javascript", "typescript", "javascriptreact", "typescriptreact" },
+  callback = function()
+    vim.opt_local.tabstop = 2
+    vim.opt_local.softtabstop = 2
+    vim.opt_local.shiftwidth = 2
+    vim.opt_local.expandtab = true
   end,
 })
