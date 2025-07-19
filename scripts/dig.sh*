@@ -1,0 +1,104 @@
+#!/bin/bash
+
+echo "=== Network Diagnostics for ISP/HTTPS Issues ==="
+echo "Date: $(date)"
+echo "Host: $(hostname)"
+echo "Kernel: $(uname -r)"
+echo ""
+
+echo "=== 1. Basic Network Info ==="
+echo "IP Configuration:"
+ip addr show | grep -E "inet|UP|DOWN" | grep -v "127.0.0.1"
+echo ""
+
+echo "Default Route:"
+ip route show default
+echo ""
+
+echo "=== 2. DNS Testing ==="
+echo "Current DNS servers:"
+resolvectl status | grep -A5 "DNS Servers"
+echo ""
+
+echo "Testing DNS resolution:"
+echo "- ping 8.8.8.8 (Google DNS IP):"
+ping -c3 -W2 8.8.8.8 2>&1 | head -5
+
+echo "- ping google.com (DNS resolution):"
+ping -c3 -W2 google.com 2>&1 | head -5
+
+echo "- nslookup google.com:"
+nslookup google.com 2>&1 | head -10
+echo ""
+
+echo "=== 3. HTTP/HTTPS Testing ==="
+echo "Testing HTTP (port 80):"
+timeout 10 curl -I -s http://example.com 2>&1 | head -5
+
+echo ""
+echo "Testing HTTPS (port 443):"
+timeout 10 curl -I -s https://example.com 2>&1 | head -5
+
+echo ""
+echo "=== 4. Certificate Analysis ==="
+echo "Checking Google's certificate:"
+echo | timeout 10 openssl s_client -connect google.com:443 2>/dev/null | openssl x509 -noout -subject -issuer -dates 2>/dev/null
+echo ""
+
+echo "Checking if certificate chain is being intercepted:"
+echo | timeout 10 openssl s_client -connect google.com:443 -showcerts 2>/dev/null | grep -E "CN=|issuer=" | head -10
+echo ""
+
+echo "=== 5. Port Connectivity ==="
+echo "Testing common ports:"
+for port in 80 443 53 8080 8443; do
+    echo -n "Port $port: "
+    timeout 3 nc -zv google.com $port 2>&1 | grep -E "succeeded|failed|refused"
+done
+echo ""
+
+echo "=== 6. MTU and Packet Size ==="
+echo "Testing MTU with ping:"
+ping -c1 -s1472 -M do google.com 2>&1 | grep -E "ping|bytes"
+echo ""
+
+echo "=== 7. System Trust Store ==="
+echo "CA certificates location:"
+ls -la /etc/ssl/certs/ | head -5
+echo "Total CA certificates: $(ls /etc/ssl/certs/*.pem 2>/dev/null | wc -l)"
+echo ""
+
+echo "=== 8. Firewall Status ==="
+echo "iptables rules (if any):"
+sudo iptables -L -n 2>/dev/null | grep -E "Chain|target" | head -10
+
+echo ""
+echo "systemd firewall status:"
+systemctl is-active ufw 2>/dev/null || echo "ufw not active"
+systemctl is-active firewalld 2>/dev/null || echo "firewalld not active"
+echo ""
+
+echo "=== 9. Process Network Usage ==="
+echo "Processes using network:"
+ss -tuln | grep -E ":80|:443|:53" | head -10
+echo ""
+
+echo "=== 10. Additional Tests ==="
+echo "Testing alternative DNS (1.1.1.1):"
+nslookup google.com 1.1.1.1 2>&1 | head -5
+
+echo ""
+echo "Testing if ISP blocks certain User-Agents:"
+timeout 10 curl -s -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" https://example.com | head -1
+echo ""
+
+echo "=== Diagnostics Complete ==="
+echo "If normal browsing fails but Tor works, check:"
+echo "1. Certificate issuer in section 4 - look for non-standard/ISP CAs"
+echo "2. DNS resolution in section 2 - try switching to 1.1.1.1 or 8.8.8.8"
+echo "3. HTTP vs HTTPS responses in section 3"
+echo ""
+echo "Quick fixes to try:"
+echo "sudo resolvectl dns <interface> 1.1.1.1 8.8.8.8"
+echo "sudo resolvectl flush-caches"
+echo "Or use VPN/continue with Tor as workaround"

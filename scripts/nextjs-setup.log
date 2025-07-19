@@ -1,0 +1,634 @@
+[0.189] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.207] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.304] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.218] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.236] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Thu Jul 10 11:49:00 AM +03 2025: NextJS setup script executed
+Fontconfig warning: using without calling FcInit()
+[6.364] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.215] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.232] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.317] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.217] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.234] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Thu Jul 10 11:52:18 AM +03 2025: NextJS setup script executed
+[0.222] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.240] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.323] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.211] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.228] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Thu Jul 10 11:53:47 AM +03 2025: NextJS setup script executed
+[0.223] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.241] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.335] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.203] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.220] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Thu Jul 10 11:57:00 AM +03 2025: NextJS setup script executed
+[5.887] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.221] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.238] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.336] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.213] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.231] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[5.891] [PARSE ERROR] Escape codes to resize text area are not supported
+Thu Jul 10 11:59:18 AM +03 2025: NextJS setup script executed
+[0.225] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.243] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.339] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.187] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.205] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[5.888] [PARSE ERROR] Escape codes to resize text area are not supported
+Thu Jul 10 12:01:45 PM +03 2025: NextJS setup script executed
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.547: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:09:54.548: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.925: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:10:06.926: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.380: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d7311cc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d7357da0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d7357240 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d73570a0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d1832280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d96d3c80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d1833ae0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12cd1f92c0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12cd1f9fc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12cdf2bc80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d7f1cf80 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d7f1e640 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12cdf2a280 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12cdf2be20 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d72cbfc0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.381: Couldn't map window 0x7f12d72cc980 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.382: Couldn't map window 0x7f12d72cce60 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.382: Couldn't map window 0x7f12ce8d73e0 as subsurface because its parent is not mapped.
+[Parent 2776, Main Thread] WARNING: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:2776): Gdk-WARNING **: 12:11:05.382: Couldn't map window 0x7f12c8b46f80 as subsurface because its parent is not mapped.
+[0.196] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.214] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.311] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.187] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.204] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[5.875] [PARSE ERROR] Escape codes to resize text area are not supported
+Thu Jul 10 12:11:25 PM +03 2025: NextJS setup script executed
+[38.301] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.223] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.243] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.337] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.216] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.234] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Fontconfig warning: using without calling FcInit()
+[6.366] [PARSE ERROR] Escape codes to resize text area are not supported
+Thu Jul 10 12:12:10 PM +03 2025: NextJS setup script executed
+[76.429] [glfw error 65544]: Wayland: fatal display error: Broken pipe
+[74.913] [glfw error 65544]: Wayland: fatal display error: Broken pipe
+[Parent 6149, Main Thread] WARNING: g_dbus_connection_unregister_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox:6149): GLib-GIO-CRITICAL **: 12:13:18.005: g_dbus_connection_unregister_object: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+[Parent 6149, Main Thread] WARNING: nsDBusRemoteServer: Unable to unregister root object from within onNameLost!: 'glib warning', file /usr/src/debug/firefox/firefox-140.0.4/toolkit/xre/nsSigHandlers.cpp:201
+
+** (firefox:6149): WARNING **: 12:13:18.005: nsDBusRemoteServer: Unable to unregister root object from within onNameLost!
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[0.208] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.226] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.402] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.221] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.238] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[5.846] [PARSE ERROR] Escape codes to resize text area are not supported
+Thu Jul 10 10:52:57 PM +03 2025: NextJS setup script executed
+[0.223] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.243] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.328] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.186] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.203] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[5.845] [PARSE ERROR] Escape codes to resize text area are not supported
+Thu Jul 10 10:55:14 PM +03 2025: NextJS setup script executed
+[0.222] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.239] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.337] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.198] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.215] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[5.863] [PARSE ERROR] Escape codes to resize text area are not supported
+Thu Jul 10 11:04:33 PM +03 2025: NextJS setup script executed
+[9.930] [PARSE ERROR] Escape codes to resize text area are not supported
+[10.209] [PARSE ERROR] Escape codes to resize text area are not supported
+[10.421] [PARSE ERROR] Escape codes to resize text area are not supported
+[11.057] [PARSE ERROR] Escape codes to resize text area are not supported
+[11.786] [PARSE ERROR] Escape codes to resize text area are not supported
+[12.138] [PARSE ERROR] Escape codes to resize text area are not supported
+[12.510] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.287] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.314] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.484] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.215] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.232] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Fontconfig warning: using without calling FcInit()
+[6.709] [PARSE ERROR] Escape codes to resize text area are not supported
+Fri Jul 11 11:13:13 AM +03 2025: NextJS setup script executed
+[230.157] [PARSE ERROR] Escape codes to resize text area are not supported
+[230.394] [PARSE ERROR] Escape codes to resize text area are not supported
+[230.672] [PARSE ERROR] Escape codes to resize text area are not supported
+[230.826] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.293] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.318] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.580] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.225] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.243] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Fontconfig warning: using without calling FcInit()
+[6.645] [PARSE ERROR] Escape codes to resize text area are not supported
+Sat Jul 12 09:08:12 PM +03 2025: NextJS setup script executed
+[13.360] [PARSE ERROR] Escape codes to resize text area are not supported
+[18.236] [PARSE ERROR] Escape codes to resize text area are not supported
+[20.330] [PARSE ERROR] Escape codes to resize text area are not supported
+[20.544] [PARSE ERROR] Escape codes to resize text area are not supported
+[20.717] [PARSE ERROR] Escape codes to resize text area are not supported
+[20.885] [PARSE ERROR] Escape codes to resize text area are not supported
+[21.076] [PARSE ERROR] Escape codes to resize text area are not supported
+[21.237] [PARSE ERROR] Escape codes to resize text area are not supported
+[21.423] [PARSE ERROR] Escape codes to resize text area are not supported
+[21.624] [PARSE ERROR] Escape codes to resize text area are not supported
+[21.810] [PARSE ERROR] Escape codes to resize text area are not supported
+[22.157] [PARSE ERROR] Escape codes to resize text area are not supported
+[22.820] [PARSE ERROR] Escape codes to resize text area are not supported
+[23.301] [PARSE ERROR] Escape codes to resize text area are not supported
+[23.510] [PARSE ERROR] Escape codes to resize text area are not supported
+[23.685] [PARSE ERROR] Escape codes to resize text area are not supported
+[25.177] [PARSE ERROR] Escape codes to resize text area are not supported
+[25.327] [PARSE ERROR] Escape codes to resize text area are not supported
+[25.481] [PARSE ERROR] Escape codes to resize text area are not supported
+[25.650] [PARSE ERROR] Escape codes to resize text area are not supported
+[25.793] [PARSE ERROR] Escape codes to resize text area are not supported
+[25.955] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.297] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.318] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.607] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.219] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.236] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Fontconfig warning: using without calling FcInit()
+[6.708] [PARSE ERROR] Escape codes to resize text area are not supported
+Sun Jul 13 02:16:34 PM +03 2025: NextJS setup script executed
+[1005.398] [PARSE ERROR] Escape codes to resize text area are not supported
+[1007.437] [PARSE ERROR] Escape codes to resize text area are not supported
+[1008.312] [PARSE ERROR] Escape codes to resize text area are not supported
+[1010.417] [PARSE ERROR] Escape codes to resize text area are not supported
+[1483.669] [PARSE ERROR] Escape codes to resize text area are not supported
+[1484.913] [PARSE ERROR] Escape codes to resize text area are not supported
+[1499.949] [PARSE ERROR] Escape codes to resize text area are not supported
+[1500.150] [PARSE ERROR] Escape codes to resize text area are not supported
+[1500.968] [PARSE ERROR] Escape codes to resize text area are not supported
+[1501.678] [PARSE ERROR] Escape codes to resize text area are not supported
+[1502.330] [PARSE ERROR] Escape codes to resize text area are not supported
+[1502.879] [PARSE ERROR] Escape codes to resize text area are not supported
+[1503.025] [PARSE ERROR] Escape codes to resize text area are not supported
+[1503.827] [PARSE ERROR] Escape codes to resize text area are not supported
+[1504.719] [PARSE ERROR] Escape codes to resize text area are not supported
+[1506.175] [PARSE ERROR] Escape codes to resize text area are not supported
+[1506.409] [PARSE ERROR] Escape codes to resize text area are not supported
+[1506.594] [PARSE ERROR] Escape codes to resize text area are not supported
+[1506.785] [PARSE ERROR] Escape codes to resize text area are not supported
+[1506.972] [PARSE ERROR] Escape codes to resize text area are not supported
+[1507.157] [PARSE ERROR] Escape codes to resize text area are not supported
+[1507.340] [PARSE ERROR] Escape codes to resize text area are not supported
+[1507.528] [PARSE ERROR] Escape codes to resize text area are not supported
+[1507.717] [PARSE ERROR] Escape codes to resize text area are not supported
+[1508.225] [PARSE ERROR] Escape codes to resize text area are not supported
+[1508.647] [PARSE ERROR] Escape codes to resize text area are not supported
+[1508.843] [PARSE ERROR] Escape codes to resize text area are not supported
+[1509.230] [PARSE ERROR] Escape codes to resize text area are not supported
+[1509.595] [PARSE ERROR] Escape codes to resize text area are not supported
+[1509.964] [PARSE ERROR] Escape codes to resize text area are not supported
+[1519.184] [PARSE ERROR] Escape codes to resize text area are not supported
+[1520.159] [PARSE ERROR] Escape codes to resize text area are not supported
+[1520.569] [PARSE ERROR] Escape codes to resize text area are not supported
+[1520.875] [PARSE ERROR] Escape codes to resize text area are not supported
+[1682.193] [PARSE ERROR] Escape codes to resize text area are not supported
+[1683.667] [PARSE ERROR] Escape codes to resize text area are not supported
+[1684.344] [PARSE ERROR] Escape codes to resize text area are not supported
+[1684.636] [PARSE ERROR] Escape codes to resize text area are not supported
+[1684.762] [PARSE ERROR] Escape codes to resize text area are not supported
+[1686.092] [PARSE ERROR] Escape codes to resize text area are not supported
+[1686.317] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.303] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.323] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.645] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.214] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.230] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Fontconfig warning: using without calling FcInit()
+[6.675] [PARSE ERROR] Escape codes to resize text area are not supported
+Sun Jul 13 07:06:11 PM +03 2025: NextJS setup script executed
+[12.275] [PARSE ERROR] Escape codes to resize text area are not supported
+[14.441] [PARSE ERROR] Escape codes to resize text area are not supported
+[15.575] [PARSE ERROR] Escape codes to resize text area are not supported
+[15.756] [PARSE ERROR] Escape codes to resize text area are not supported
+[15.920] [PARSE ERROR] Escape codes to resize text area are not supported
+[16.081] [PARSE ERROR] Escape codes to resize text area are not supported
+[17.455] [PARSE ERROR] Escape codes to resize text area are not supported
+[17.969] [PARSE ERROR] Escape codes to resize text area are not supported
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+[0.334] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.363] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.676] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.201] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.218] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Fontconfig warning: using without calling FcInit()
+[6.411] [PARSE ERROR] Escape codes to resize text area are not supported
+Tue Jul 15 01:19:33 PM +03 2025: NextJS setup script executed
+[0.222] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.240] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.380] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.207] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.224] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Fontconfig warning: using without calling FcInit()
+[6.410] [PARSE ERROR] Escape codes to resize text area are not supported
+Wed Jul 16 11:36:39 AM +03 2025: NextJS setup script executed
+[492.989] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.209] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.227] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.424] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.187] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.204] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[5.863] [PARSE ERROR] Escape codes to resize text area are not supported
+Wed Jul 16 09:49:28 PM +03 2025: NextJS setup script executed
+[8.870] [PARSE ERROR] Escape codes to resize text area are not supported
+[10.520] [PARSE ERROR] Escape codes to resize text area are not supported
+[11.755] [PARSE ERROR] Escape codes to resize text area are not supported
+[12.775] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.184] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.202] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.480] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.190] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.207] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Fontconfig warning: using without calling FcInit()
+[6.373] [PARSE ERROR] Escape codes to resize text area are not supported
+Thu Jul 17 01:32:21 PM +03 2025: NextJS setup script executed
+[1424.101] [PARSE ERROR] Escape codes to resize text area are not supported
+[1425.481] [PARSE ERROR] Escape codes to resize text area are not supported
+[1426.961] [PARSE ERROR] Escape codes to resize text area are not supported
+[1429.119] [PARSE ERROR] Escape codes to resize text area are not supported
+[1430.550] [PARSE ERROR] Escape codes to resize text area are not supported
+[1435.509] [PARSE ERROR] Escape codes to resize text area are not supported
+[1436.373] [PARSE ERROR] Escape codes to resize text area are not supported
+[1929.346] [PARSE ERROR] Escape codes to resize text area are not supported
+[1930.152] [PARSE ERROR] Escape codes to resize text area are not supported
+[1931.869] [PARSE ERROR] Escape codes to resize text area are not supported
+[1933.545] [PARSE ERROR] Escape codes to resize text area are not supported
+[8474.779] [PARSE ERROR] Escape codes to resize text area are not supported
+[8475.053] [PARSE ERROR] Escape codes to resize text area are not supported
+[8475.854] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.217] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.234] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[0.581] [PARSE ERROR] Escape codes to resize text area are not supported
+[0.209] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0.226] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+Fontconfig warning: using without calling FcInit()
+[6.424] [PARSE ERROR] Escape codes to resize text area are not supported
+Thu Jul 17 09:06:31 PM +03 2025: NextJS setup script executed
+[42.215] [PARSE ERROR] Escape codes to resize text area are not supported
+[42.419] [PARSE ERROR] Escape codes to resize text area are not supported
+[42.841] [PARSE ERROR] Escape codes to resize text area are not supported
+[48.353] [PARSE ERROR] Escape codes to resize text area are not supported
+[100.210] [PARSE ERROR] Escape codes to resize text area are not supported
+[100.422] [PARSE ERROR] Escape codes to resize text area are not supported
+[102.099] [PARSE ERROR] Escape codes to resize text area are not supported
+[102.903] [PARSE ERROR] Escape codes to resize text area are not supported
+[103.981] [PARSE ERROR] Escape codes to resize text area are not supported
+[104.742] [PARSE ERROR] Escape codes to resize text area are not supported
+[105.061] [PARSE ERROR] Escape codes to resize text area are not supported
+[105.299] [PARSE ERROR] Escape codes to resize text area are not supported
+[106.230] [PARSE ERROR] Escape codes to resize text area are not supported
+[107.112] [PARSE ERROR] Escape codes to resize text area are not supported
+[107.318] [PARSE ERROR] Escape codes to resize text area are not supported
+[107.834] [PARSE ERROR] Escape codes to resize text area are not supported
+[108.205] [PARSE ERROR] Escape codes to resize text area are not supported
+[435.962] [PARSE ERROR] Escape codes to resize text area are not supported
+[440.964] [PARSE ERROR] Escape codes to resize text area are not supported
+[443.464] [PARSE ERROR] Escape codes to resize text area are not supported
+[447.517] [PARSE ERROR] Escape codes to resize text area are not supported
+[448.227] [PARSE ERROR] Escape codes to resize text area are not supported
+[449.275] [PARSE ERROR] Escape codes to resize text area are not supported
+[451.025] [PARSE ERROR] Escape codes to resize text area are not supported
+[452.680] [PARSE ERROR] Escape codes to resize text area are not supported
+[453.967] [PARSE ERROR] Escape codes to resize text area are not supported
